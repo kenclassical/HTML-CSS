@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 1900px;
+    margin: 0 auto;
+    background: #0D0F40;
+    height: 150px;
+    margin-top: -20px;
+}
+
+nav{
+    height: 60px;
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+    margin: 20px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    width: 750px;
+    margin-top: 90px;
+    justify-content: space-between;
+}
+nav ul1{
+    display: flex;
+    list-style: none;
+    width: 490px;
+    margin-top: 90px;
+    justify-content: space-between;
+}
+nav ul1 li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 72px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 48px;
+}
+nav ul2 li a{
+    display: flex;
+    list-style: none;
+    margin-top: 70px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 48px;
+}
+.search_area{
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.search_bar{
+    display: flex; 
+    justify-content: space-between;
+    border: 1px solid #000000;
+    background: #ffffff;
+    padding: .90rem ;
+    border-radius: 40px;
+}
+.search_bar img{
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+}
+.search_bar input[type="text"] {
+    font-size: 18px;
+    width: 350px;
+    padding: .90rem 0;
+    border: none;
+}
+.Gl img{
+    margin-top: 70px;
+    width: 1900px;
+}
+.Glo01 {
+    background: #BAB8B8;
+    display: flex;
+}
+.Ho0 p{
+    font-size: 48px;
+    margin-top: 150px;
+    width: 220px;
+    background: #BAB8B8;
+}
+.Glo1 img{
+    width: 510px;
+    height: 510px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.Glo2 img{
+    margin-left: 80px;
+    margin-top: 50px;
+    width: 510px;
+    height: 510px;
+}
+.Glo3 img{
+    margin-left: 80px;
+    margin-top: 50px;
+    width: 510px;
+    height: 510px;
+}
+.Ho ul{
+    background: #BAB8B8;
+    height: 100px;
+}
+.Ho ul li1 a{
+    margin-left: 135px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Ho ul li2 a{
+    margin-left: 180px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Ho ul li3 a{
+    margin-left: 245px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Glo02{
+    background: #BAB8B8;
+    margin-top: 10px;
+    display: flex;
+}
+.Glo4 img{
+    width: 510px;
+    height: 510px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.Glo5 img{
+    margin-left: 80px;
+    width: 510px;
+    height: 510px;
+    margin-top: 50px;
+}
+.Glo6 img{
+    margin-left: 80px;
+    width: 510px;
+    height: 510px;
+    margin-top: 50px;
+}
+.Ho1{
+    background: #BAB8B8;
+    height: 100px;
+    display: flex;
+}
+.Ho1 ul li1 a{
+    margin-left: 160px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Ho1 ul li2 a{
+    margin-left: 270px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Ho1 ul li3 a{
+    margin-left: 270px;
+    font-size:  48px;
+    text-decoration: none;
+    color: #000;
+}
+.Po{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Ho2 a{
+    font-size: 37px;
+    color: #fff;
+    text-decoration: none;
+    background: #0D0F40;
+    padding: 5px 850px;
+}
+.l{
+    background: #000;
+    height: 2px;
+    margin-top: 20px;
+}
